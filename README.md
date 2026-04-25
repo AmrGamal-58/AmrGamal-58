@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a fresh graduate computer engineer passionate about **Artificial Intelligence** and **Full-Stack Development**. I believe that knowledge is boundless—there's always something new to discover, and no matter how far we advance or how much we learn, the universe of knowledge continues to expand. I'm committed to continuous learning and pushing the boundaries of what's possible. 🌱
+I'm a fresh graduate computer engineer passionate about **Artificial Intelligence** and **Full-Stack Development**. I believe that knowledge is boundless, there's always something new to discover, and no matter how far we advance or how much we learn, the universe of knowledge continues to expand. I'm committed to continuous learning and pushing the boundaries of what's possible. 🌱
 
 ---
 
@@ -32,6 +32,10 @@ I'm a fresh graduate computer engineer passionate about **Artificial Intelligenc
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=google-colab&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
 ### Specializations
 - Neural Network Design
@@ -39,6 +43,7 @@ I'm a fresh graduate computer engineer passionate about **Artificial Intelligenc
 - Computer Vision & Object Detection
 - Prompt Engineering
 - AI Agents (Agentic AI, MCP)
+- Full-Stack Web Development
 
 ---
 
@@ -57,7 +62,7 @@ I'm a fresh graduate computer engineer passionate about **Artificial Intelligenc
 ## 📁 Projects
 
 ### 🏆 **RobEn-AAST/AI-MATE-ROV-2024**
-AI and robotics project focused on autonomous underwater vehicle development. Participated in the MATE ROV competition.
+AI and robotics project focused on autonomous underwater vehicle development. Developed AI models to enable ROVs and UAVs to autonomously complete specific mission objectives. Participated in the MATE ROV competition.
 
 ### 🩺 **Blood Glucose Prediction ANN**
 Developed an Artificial Neural Network that predicts blood glucose levels using Body Impedance and BMI as input features. (Repository coming soon!)
@@ -72,7 +77,7 @@ Collaborative project showcasing data structures and algorithms implementations.
 
 ## 🎮 Fun Facts
 
-- **RobEn Club Alumnus**: Former member of RobEn-AAST, a university robotics club where I worked on **ROVs** (Remotely Operated Vehicles) and **UAVs** (Unmanned Aerial Vehicles)
+- **RobEn Club Alumnus**: Former member of RobEn-AAST, a university robotics club where I developed AI models to enable **ROVs** (Remotely Operated Vehicles) and **UAVs** (Unmanned Aerial Vehicles) to execute autonomous missions
 - **Competition Experience**: Participated in prestigious competitions like **MATE ROV**, bringing ideas to life in high-pressure environments
 - **Active Lifestyle**: Gaming enthusiast | Padel & Tennis player | Gym regular 💪
 - **Philosophy**: Believer in continuous growth and the endless pursuit of knowledge
