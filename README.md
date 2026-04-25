@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a fresh graduate computer engineer passionate about **Artificial Intelligence** and **Full-Stack Development**. I believe that knowledge is boundless—there's always something new to discover, no matter how far we've come. This philosophy drives me to constantly push boundaries, explore emerging technologies, and solve complex problems. I'm committed to lifelong learning because growth never stops.
+I'm a fresh graduate computer engineer passionate about **Artificial Intelligence** and **Full-Stack Development**. I believe that knowledge is boundless—there's always something new to discover, and no matter how far we advance or how much we learn, the universe of knowledge continues to expand. I'm committed to continuous learning and pushing the boundaries of what's possible. 🌱
 
 ---
 
@@ -22,7 +22,7 @@ I'm a fresh graduate computer engineer passionate about **Artificial Intelligenc
 ### ML & AI Frameworks
 - **Deep Learning**: TensorFlow, PyTorch, Keras
 - **ML Libraries**: Scikit-learn, NumPy, Pandas
-- **Computer Vision**: OpenCV, Roboflow
+- **Computer Vision**: OpenCV, YOLO Models, Roboflow
 - **Web Framework**: FastAPI
 - **NLP & AI**: Hugging Face, LangChain, LangVector
 
@@ -36,6 +36,7 @@ I'm a fresh graduate computer engineer passionate about **Artificial Intelligenc
 ### Specializations
 - Neural Network Design
 - Machine Learning
+- Computer Vision & Object Detection
 - Prompt Engineering
 - AI Agents (Agentic AI, MCP)
 
@@ -93,4 +94,3 @@ Feel free to reach out if you'd like to collaborate on AI projects, discuss emer
 _Always learning, always growing_ 📈
 
 </div>
-
